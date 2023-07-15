@@ -1,0 +1,31 @@
+.portfolio_container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2.5rem;
+}
+
+.portfolio_item{
+ padding: 1.3rem;
+ background: var(--color-bg-variant);
+ display: flex;
+ flex-direction: column;
+ gap: 1rem;
+ border-radius: 2rem;
+}
+.portfolio_item_img{
+    height: 15rem;
+    border-radius: 2rem;
+}
+
+
+@media screen and (max-width:600px) {
+    .portfolio_container{
+        grid-template-columns: 1fr;
+    }
+ }
+
+ @media screen and (max-width:1024px) {
+    .portfolio_container{
+        grid-template-columns: 1fr;
+    }
+ }
