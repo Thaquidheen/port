@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/port/static/css/main.5342ff91.css",
+    "main.js": "/port/static/js/main.1a62707b.js",
+    "static/media/about.png": "/port/static/media/about.5706f9190b7dbf4a6035.png",
+    "static/media/me.png": "/port/static/media/me.4069def64a9d55f550f2.png",
+    "static/media/portfolio.jpg": "/port/static/media/portfolio.324a4105b9fb9ab4618a.jpg",
+    "static/media/Thaquidheen_MA_CV.pdf": "/port/static/media/Thaquidheen_MA_CV.6b7ccbc64ce1b8d20872.pdf",
+    "static/media/team.jpg": "/port/static/media/team.c5e3406734ef61aed9d3.jpg",
+    "static/media/booking.jpg": "/port/static/media/booking.21926048909c956b5add.jpg",
+    "static/media/netflix.jpg": "/port/static/media/netflix.3653022d9096b4a6f62a.jpg",
+    "index.html": "/port/index.html",
+    "main.5342ff91.css.map": "/port/static/css/main.5342ff91.css.map",
+    "main.1a62707b.js.map": "/port/static/js/main.1a62707b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5342ff91.css",
+    "static/js/main.1a62707b.js"
+  ]
+}
