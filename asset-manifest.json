@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.73b3f457.css",
-    "main.js": "/static/js/main.dfed5f9c.js",
+    "main.js": "/static/js/main.068cfec0.js",
+    "static/media/Thaquidheen_M_A_Resume.pdf": "/static/media/Thaquidheen_M_A_Resume.2225adc89490dfbaa64c.pdf",
     "static/media/about.png": "/static/media/about.5706f9190b7dbf4a6035.png",
     "static/media/me.png": "/static/media/me.4069def64a9d55f550f2.png",
     "static/media/portfolio.jpg": "/static/media/portfolio.324a4105b9fb9ab4618a.jpg",
-    "static/media/Thaquidheen_MA_CV.pdf": "/static/media/Thaquidheen_MA_CV.6b7ccbc64ce1b8d20872.pdf",
     "static/media/team.jpg": "/static/media/team.c5e3406734ef61aed9d3.jpg",
     "static/media/booking.jpg": "/static/media/booking.21926048909c956b5add.jpg",
     "static/media/netflix.jpg": "/static/media/netflix.3653022d9096b4a6f62a.jpg",
     "index.html": "/index.html",
     "main.73b3f457.css.map": "/static/css/main.73b3f457.css.map",
-    "main.dfed5f9c.js.map": "/static/js/main.dfed5f9c.js.map"
+    "main.068cfec0.js.map": "/static/js/main.068cfec0.js.map"
   },
   "entrypoints": [
     "static/css/main.73b3f457.css",
-    "static/js/main.dfed5f9c.js"
+    "static/js/main.068cfec0.js"
   ]
 }
